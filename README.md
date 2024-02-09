@@ -1,2 +1,8 @@
-# sample_notebooks
- data-science notebook examples
+В данном репозитории собраны проекты, выполненные в процессе обучения по программе профессиональной переподготовки **Специалист по Data Science** в **Яндекс.Практикум**
+
+| Проект                                                       | Описание                                                     | Библиотеки                                    |
+| :----------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- |
+| [Пример построения модели для обработки и классификации изображений](https://github.com/needsomecats/sample_notebooks/blob/main/cv_sample.ipynb) | Определение приблизительного возраста человека по фотографии | Keras` `NumPy` `Matplotlib                    |
+| [Пример построения модели для обработки текстов ](https://github.com/needsomecats/sample_notebooks/blob/main/text_processing_sample.ipynb) | Классификация текстовых комментариев на позитивные и негативные | LightGBM` `Pandas` `Sklearn NLTK` `Matplotlib |
+| [Пример исследовательского анализа](https://github.com/needsomecats/sample_notebooks/blob/main/eda_sample.ipynb) | Анализ рынка недвижимости Санкт-Петербурга и Ленинградкой области, выявление аномалий для отслеживания мошеннической деятельности | Pandas` `NumPy` `Matplotlib` `Seaborn         |
+| [Пример построения регрессионной модели](https://github.com/needsomecats/sample_notebooks/blob/main/regression_sample.ipynb) | Построение модели для предсказания температуры плавления стали на металлургическом комбинате для оптимизации энергопотребления | Pandas, Sklearn, XGBoost, LightGBM            |
